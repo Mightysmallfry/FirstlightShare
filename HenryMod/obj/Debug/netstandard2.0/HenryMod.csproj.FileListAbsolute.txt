@@ -1,0 +1,14 @@
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\HenryMod.deps.json
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\HenryMod.dll
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\HenryMod.pdb
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\MMHOOK_RoR2.dll
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\R2API.dll
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\R2API.xml
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.AssemblyReference.cache
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.AssemblyInfoInputs.cache
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.AssemblyInfo.cs
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.CopyComplete
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.dll
+C:\Users\Jonat\Source\Repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.pdb
